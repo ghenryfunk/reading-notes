@@ -46,3 +46,8 @@
     1. Browser Object Model - creates a model of the browser tab or window
     1. Document Object Model (DOM) - creates a model of the current web page
     1. Global Javascript Objects - group of individual objects that relate to different parts of the JS language
+
+# Domain Modeling reading from GitHub
+- domain modeling is the process of creating a conceptual model in code for a specific problem
+- prototype can act as an objects stunt double...
+- the article mostly focuses on constructing models using construction notation
