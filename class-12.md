@@ -1,0 +1,1 @@
+Use \<canvas> instead of \<table>... lots of specifics as far as attributes etc. look it up!
