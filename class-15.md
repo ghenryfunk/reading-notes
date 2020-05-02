@@ -1,0 +1,2 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+- Emrace your human qualities - encourage equal talking time amongst teammembers, and cue in to emotional expressions - how are others on the team really feeling/doing
