@@ -47,7 +47,7 @@
 
 # JS & JQuery
 ## Ch 3 - Functions
-- Functions perform a specific task
+- Functions perform a specific task. They essentially allow you to write the steps needed to perform that task once, and then use it as many times as you need by simply "calling" the function. 
     - Two steps are needed (not necessarily in order)
         1. Declare a function
             - ex. function sayHello(){

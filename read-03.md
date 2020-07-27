@@ -8,11 +8,11 @@
 - Note - you can also nest lists within lists using proper indentation
 
 ## Ch 13 - Boxes
-- CSS treats each HTML element as if it sits within it's onw box
+- CSS treats each HTML element as if it sits within it's own box
 - With CSS, you can control the size of any box by assigning a height and width value - these values can be measured in pixels (px) percentages (%), or ems
     - pixels set a static size that holds across any size of browser
     - percentage sets size relative to the browser window or, if within another box, relative to the size of that larger box
-    - ems sets isze based on the size of the text within it
+    - ems sets size based on the size of the text within it
 - But! What if someon has a HUGE or SUPER SMALL browser window? To ensure your text is still readable, you can set min or max width and height.
     - ex. min-width: 450px;
 
